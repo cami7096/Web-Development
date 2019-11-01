@@ -1,0 +1,48 @@
+body {
+  background-color: #ecfcff;
+}
+
+hr {
+  border-style: none;
+  border-top: 5px dotted #d1eecc;
+  width: 8%;
+}
+
+img {
+  border-radius: 100%;
+  height: 200px;
+  width: 200px;
+}
+
+h1 {
+  color: #76dbd1;
+  font-family: 'Playfair Display', serif;
+}
+
+h3 {
+  text-align: center;
+  color: #76dbd1;
+  font-family: 'Montserrat', sans-serif;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  padding: 8px;
+}
+
+.work {
+  margin: auto;
+  border: 1px solid #d1eecc;
+  text-align: center;
+}
+
+.work td, .work th {
+  border: 1px solid #d1eecc;
+}
+
+td {
+  padding: 5px;
+}
